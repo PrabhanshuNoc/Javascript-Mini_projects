@@ -1,0 +1,8 @@
+Application ID
+598791
+
+Access Key
+P9lLcrqGzFyydDQvkn4ckUW-w2jPHTuLAAqrDvX6A60
+
+Secret key
+40k3dHXsTH2lEHfRkFNtuS9mFyrMjYSAqYgE4BTFAKA
