@@ -34,6 +34,8 @@ Welcome to the JavaScript Mini Projects repository! This collection includes sma
 
 - JavaScript
 
+- JS DOM
+
 
 ## Contributing
 
