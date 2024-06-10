@@ -32,7 +32,7 @@ Welcome to the JavaScript Mini Projects repository! This collection includes sma
 
 - CSS3
 
-- JavaScript
+- JavaScript ES6
 
 - JS DOM
 
