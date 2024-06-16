@@ -28,9 +28,9 @@ Welcome to the JavaScript Mini Projects repository! This collection includes sma
 
 ## Technologies Used
 
-- HTML5
+- HTML
 
-- CSS3
+- CSS
 
 - JavaScript ES6
 
